@@ -1,5 +1,5 @@
--- Pytech C0llection List --
+-- Pytech COllection List --
 ['students']
 	
 
-	End of prgram, press any key to exit...
+	End of program, press any key to exit...
